@@ -1,0 +1,15 @@
+.page-header.navbar {
+	background-color: #428bca;
+}
+
+.top-menu a {
+	color: #FFF;
+}
+
+.page-header.navbar .top-menu .navbar-nav > li.dropdown .dropdown-toggle > i {
+	color: #FFF;
+}
+
+.dashboard-stat .visual {
+	height: 100px;
+}
